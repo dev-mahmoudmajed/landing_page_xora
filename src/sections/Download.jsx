@@ -1,6 +1,7 @@
 import { Element } from "react-scroll";
 import { clsx } from "clsx";
-import { links } from "/src/constants/index.js";
+import { links } from "../constants/index";
+
 
 function Download() {
 return (
