@@ -5,6 +5,7 @@ import Features from "./sections/Features.jsx";
 import Pricing from "./sections/Pricing.jsx";
 import Faq from "./sections/Faq.jsx";
 import Testimonials from "./sections/Testimonials.jsx";
+import Download from "./sections/Download.jsx";
 // video -link => https://www.youtube.com/watch?v=ukiGFmZ32YA&t=5006s
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Pricing />
         <Faq/>
         <Testimonials/>
+        <Download/>
       </main>
     </>
   );
