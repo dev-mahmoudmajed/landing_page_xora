@@ -404,26 +404,42 @@ export const links = [
 export const socials = [
   {
     id: '0',
-    title: 'x',
-    icon: '/images/socials/x.svg',
-    url: '#',
+    title: 'Linkedin',
+    icon: '/images/socials/linkedin.svg',
+    url: 'https://www.linkedin.com/in/mahmoud-majed/',
   },
   {
     id: '1',
-    title: 'Threads',
-    icon: '/images/socials/threads.svg',
-    url: '#',
+    title: 'Github',
+    icon: '/images/socials/github.svg',
+    url: 'https://github.com/mahmoudmajedalsheikh',
   },
   {
     id: '2',
-    title: 'Instagram',
-    icon: '/images/socials/instagram.svg',
-    url: '#',
+    title: 'Youtube',
+    icon: '/images/socials/youtube.svg',
+    url: 'https://www.youtube.com/@programmersplus',
   },
   {
     id: '3',
-    title: 'Discord',
-    icon: '/images/socials/discord.svg',
-    url: '#',
+    title: 'Facebook',
+    icon: '/images/socials/facebook.svg',
+    url: 'https://www.facebook.com/profile.php?id=61560942787271',
   },
+  {
+    id: '4',
+    title: 'x',
+    icon: '/images/socials/x.svg',
+    url: 'https://x.com/DevMahmoudMajed',
+  },
+
+  {
+    id: '8',
+    title: 'Instagram',
+    icon: '/images/socials/instagram.svg',
+    url: 'https://www.instagram.com/devmahmoudmajed/',
+  },
+
+
+
 ];
