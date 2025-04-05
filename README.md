@@ -2,9 +2,9 @@
 
 #### Using tec and packege
 - React + Vite
-- tailwind -> for Styling
-- clsx -> for add acive tailwind
-- rect-scroll -> to add scroll effect
+- tailwindcss -> for Styling
+- clsx -> for add logic tailwind
+- react-scroll -> to add scroll effect
 - react-countup -> to add count effect in price section
 - react-slidedown -> to make FAQ Section
 
